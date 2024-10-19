@@ -13,7 +13,7 @@
         "server": "node app.js"
     },
     "keywords": [],
-    "author": "Luz Adriana",
+    "author": "",
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
